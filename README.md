@@ -1,6 +1,6 @@
 # ChatGPT vs Grok vs Gemini vs Claude : recréer Minecraft
 
-Bienvenue sur le dépôt lié à la vidéo de la chaîne YouTube **[Aywen](https://www.youtube.com/@AywenVideos)** ! 
+Bienvenue sur le dépôt lié à la vidéo de la chaîne YouTube **[Aywen](https://www.youtube.com/@Aywen)** ! 
 
 Dans cette expérience, j'ai mis au défi 4 des meilleures intelligences artificielles du moment pour voir laquelle était capable de recréer la meilleure version web du célèbre jeu Minecraft. Ce dépôt regroupe l'intégralité du code brut généré par ces IA lors de la vidéo.
 
